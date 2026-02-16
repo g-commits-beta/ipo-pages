@@ -1,0 +1,235 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-02-16T21:31:46.045545",
+  "ai_model": "claude-sonnet-4-5-20250929",
+  "count": 4,
+  "items": [
+    {
+      "code": "509A",
+      "name": "グリーンライト・再エネインフラ投資法人",
+      "market": "東イ",
+      "listing_date": "2026-03-10",
+      "price_range": "80,000",
+      "expected_price": "80,000",
+      "bb_start_date": "2026-02-20",
+      "bb_end_date": "2026-02-27",
+      "application_start_date": "2026-03-03",
+      "application_end_date": "2026-03-06",
+      "lead_underwriter": "みずほ",
+      "syndicate": [
+        {
+          "broker_name": "みずほ証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 1
+        },
+        {
+          "broker_name": "SBI証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "楽天証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        }
+      ],
+      "ai_rank": "D",
+      "ai_score": 3,
+      "predicted_price": 76000,
+      "ai_analysis": "インフラファンド（東証インフラ）で想定価格8万円と大型案件。96ut評価C(4)だが読者予想76067円と公募割れ予想。REITやインフラファンドは利回り商品として安定性はあるが、IPOとしての初値妙味は乏しい。みずほ主幹事、シ団3社のみで抽選0枚は個人投資家軽視。機関投資家向け案件で初値は想定価格を下回る見込み。",
+      "ai_model": "claude-sonnet-4-5-20250929",
+      "last_updated": "2026-02-16T21:31:46.045545"
+    },
+    {
+      "code": "505A",
+      "name": "ギークリー",
+      "market": "東S",
+      "listing_date": "2026-02-27",
+      "price_range": "1,880-1,900",
+      "expected_price": "1,880",
+      "bb_start_date": "2026-02-10",
+      "bb_end_date": "2026-02-16",
+      "application_start_date": "2026-02-18",
+      "application_end_date": "2026-02-24",
+      "lead_underwriter": "野村",
+      "syndicate": [
+        {
+          "broker_name": "野村證券",
+          "allocation": "2,889,000株",
+          "allocation_pct": 90.0,
+          "lottery_shares": 2600,
+          "is_lead": 1
+        },
+        {
+          "broker_name": "みずほ証券",
+          "allocation": "89,900株",
+          "allocation_pct": 2.8,
+          "lottery_shares": 90,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "SBI証券",
+          "allocation": "80,200株",
+          "allocation_pct": 2.5,
+          "lottery_shares": 361,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "楽天証券",
+          "allocation": "41,700株",
+          "allocation_pct": 1.3,
+          "lottery_shares": 417,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "岡三証券（岡三オンライン）",
+          "allocation": "41,700株",
+          "allocation_pct": 1.3,
+          "lottery_shares": 42,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "松井証券",
+          "allocation": "19,200株",
+          "allocation_pct": 0.6,
+          "lottery_shares": 192,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "東海東京証券",
+          "allocation": "16,100株",
+          "allocation_pct": 0.5,
+          "lottery_shares": 16,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "丸三証券",
+          "allocation": "16,100株",
+          "allocation_pct": 0.5,
+          "lottery_shares": 16,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "極東証券",
+          "allocation": "16,100株",
+          "allocation_pct": 0.5,
+          "lottery_shares": null,
+          "is_lead": 0
+        }
+      ],
+      "ai_rank": "C",
+      "ai_score": 5,
+      "predicted_price": 1950,
+      "ai_analysis": "96ut評価C(5)、読者予想1915円とほぼ公開価格並み。IT人材サービスは堅調な業種だが、東証スタンダード上場で成長期待は限定的。野村主幹事で抽選3734枚、9社シ団と需給面は標準的。仮条件上限1900円に対し小幅プラス程度の着地を予想。市場環境次第では公募割れリスクも。",
+      "ai_model": "claude-sonnet-4-5-20250929",
+      "last_updated": "2026-02-16T21:31:46.045545"
+    },
+    {
+      "code": "504A",
+      "name": "イノバセル",
+      "market": "東G",
+      "listing_date": "2026-02-24",
+      "price_range": "1,290-1,350",
+      "expected_price": "1,290",
+      "offering_price": 1350,
+      "bb_start_date": "2026-02-05",
+      "bb_end_date": "2026-02-10",
+      "application_start_date": "2026-02-13",
+      "application_end_date": "2026-02-18",
+      "lead_underwriter": "野村",
+      "syndicate": [
+        {
+          "broker_name": "野村證券",
+          "allocation": "8,440,900株",
+          "allocation_pct": 92.5,
+          "lottery_shares": 7597,
+          "is_lead": 1
+        },
+        {
+          "broker_name": "SBI証券",
+          "allocation": "684,400株",
+          "allocation_pct": 7.5,
+          "lottery_shares": 3080,
+          "is_lead": 0
+        }
+      ],
+      "ai_rank": "E",
+      "ai_score": 2,
+      "predicted_price": 1250,
+      "ai_analysis": "96ut評価D(2)、読者予想平均1189円と公募割れ予想が支配的。東証グロース、野村主幹事で抽選10677枚と需給は良好だが、仮条件上限1350円に対し市場は慎重姿勢。直前のTOブックスの公募割れが市場心理を冷やしている。バイオ・創薬関連は不透明感強く、初値は公開価格を若干下回る可能性。",
+      "ai_model": "claude-sonnet-4-5-20250929",
+      "last_updated": "2026-02-16T21:31:46.045545"
+    },
+    {
+      "code": "500A",
+      "name": "ＴＯブックス",
+      "market": "東S",
+      "listing_date": "2026-02-13",
+      "price_range": "3,810-3,910",
+      "expected_price": "3,810",
+      "offering_price": 3910,
+      "initial_price": 3595,
+      "bb_start_date": "2026-01-28",
+      "bb_end_date": "2026-02-03",
+      "application_start_date": "2026-02-05",
+      "application_end_date": "2026-02-10",
+      "lead_underwriter": "日興",
+      "syndicate": [
+        {
+          "broker_name": "SMBC日興証券",
+          "allocation": "782,200株",
+          "allocation_pct": 86.1,
+          "lottery_shares": 782,
+          "is_lead": 1
+        },
+        {
+          "broker_name": "野村證券",
+          "allocation": "59,100株",
+          "allocation_pct": 6.51,
+          "lottery_shares": 53,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "みずほ証券",
+          "allocation": "25,400株",
+          "allocation_pct": 2.8,
+          "lottery_shares": 25,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "SBI証券",
+          "allocation": "16,400株",
+          "allocation_pct": 1.81,
+          "lottery_shares": 74,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "楽天証券",
+          "allocation": "13,600株",
+          "allocation_pct": 1.5,
+          "lottery_shares": 136,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "松井証券",
+          "allocation": "11,800株",
+          "allocation_pct": 1.3,
+          "lottery_shares": 118,
+          "is_lead": 0
+        }
+      ],
+      "ai_rank": "D",
+      "ai_score": 3,
+      "predicted_price": 3595,
+      "ai_analysis": "既に初値3595円で公募割れ（-8.1%）。96ut読者予想4581円を大きく下回る結果に。東証スタンダード、出版関連という成長性に疑問符がつく業種、吸収金額の大きさが需給悪化を招いた。主幹事日興の抽選枚数も1188枚と少なく人気薄。市場環境の厳しさを象徴する案件となった。",
+      "ai_model": "claude-sonnet-4-5-20250929",
+      "last_updated": "2026-02-16T21:31:46.045545"
+    }
+  ]
+}
