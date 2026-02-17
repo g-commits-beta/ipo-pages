@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-16T13:24:44.173458",
+  "generated_at": "2026-02-17T05:14:52.621074",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 4,
   "items": [
@@ -41,10 +41,10 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 76000,
-      "ai_analysis": "インフラファンド,東証I,大型案件,利回り重視,値動き限定的",
+      "predicted_price": 76116,
+      "ai_analysis": "インフラファンド,大型案件,東証インフラ,値動き限定的",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-16T13:24:44.173357"
+      "last_updated": "2026-02-17T05:14:52.620974"
     },
     {
       "code": "505A",
@@ -125,10 +125,10 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1920,
-      "ai_analysis": "小幅プラス,東証S,人材サービス,需給やや良好,野村主幹事",
+      "predicted_price": 1916,
+      "ai_analysis": "人材IT,スタンダード,野村主幹事,小幅プラス想定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-16T13:24:44.173357"
+      "last_updated": "2026-02-17T05:14:52.620974"
     },
     {
       "code": "504A",
@@ -161,10 +161,10 @@
       ],
       "ai_rank": "E",
       "ai_score": 2,
-      "predicted_price": 1200,
-      "ai_analysis": "公募割れ懸念,東証G,バイオ関連,需給悪化,高リスク",
+      "predicted_price": 1190,
+      "ai_analysis": "公募割れ懸念,グロース小型,吸収金額小,需給悪化",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-16T13:24:44.173357"
+      "last_updated": "2026-02-17T05:14:52.620974"
     },
     {
       "code": "500A",
@@ -227,9 +227,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "公募割れ,東証S,小型案件,需給厳しい,出版業界",
+      "ai_analysis": "公募割れ,出版業界,小型スタンダード,需給厳しい",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-16T13:24:44.173357"
+      "last_updated": "2026-02-17T05:14:52.620974"
     }
   ]
 }
