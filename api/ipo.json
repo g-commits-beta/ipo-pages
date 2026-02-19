@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-18T05:17:44.096527",
+  "generated_at": "2026-02-19T05:15:06.227930",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 5,
   "items": [
@@ -116,12 +116,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 4,
-      "predicted_price": 1070,
-      "ai_analysis": "SaaS企業,東G小型,岡三主幹事,小幅上昇",
+      "ai_rank": "C",
+      "ai_score": 5,
+      "predicted_price": 1030,
+      "ai_analysis": "SaaS,小型グロース,岡三主幹事,微増期待",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-18T05:17:44.096407"
+      "last_updated": "2026-02-19T05:15:06.227811"
     },
     {
       "code": "509A",
@@ -161,9 +161,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 76000,
-      "ai_analysis": "インフラファンド,東イ大型,利回り重視,初値期待薄",
+      "ai_analysis": "インフラファンド,大型案件,需給厳しい,公募割れリスク",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-18T05:17:44.096407"
+      "last_updated": "2026-02-19T05:15:06.227811"
     },
     {
       "code": "505A",
@@ -245,10 +245,10 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1920,
-      "ai_analysis": "IT人材紹介,東S小型,野村主幹事,微増期待",
+      "predicted_price": 1910,
+      "ai_analysis": "IT人材,スタンダード,野村主幹事,公開価格近辺",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-18T05:17:44.096407"
+      "last_updated": "2026-02-19T05:15:06.227811"
     },
     {
       "code": "504A",
@@ -282,9 +282,9 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1180,
-      "ai_analysis": "公募割れ懸念,バイオ不人気,野村主幹事,市場環境悪",
+      "ai_analysis": "公募割れ懸念,小型グロース,野村主幹事,需給不安",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-18T05:17:44.096407"
+      "last_updated": "2026-02-19T05:15:06.227811"
     },
     {
       "code": "500A",
@@ -347,9 +347,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "公募割れ,出版業界低迷,東S大型,需給悪化",
+      "ai_analysis": "公募割れ,出版業界,小型スタンダード,需給やや弱い",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-18T05:17:44.096407"
+      "last_updated": "2026-02-19T05:15:06.227811"
     }
   ]
 }
