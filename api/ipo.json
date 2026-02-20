@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-19T05:15:06.227930",
+  "generated_at": "2026-02-20T05:09:10.334292",
   "ai_model": "claude-sonnet-4-5-20250929",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "code": "519A",
@@ -116,35 +116,35 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "C",
-      "ai_score": 5,
-      "predicted_price": 1030,
-      "ai_analysis": "SaaS,小型グロース,岡三主幹事,微増期待",
+      "ai_rank": "D",
+      "ai_score": 4,
+      "predicted_price": 1050,
+      "ai_analysis": "東G小型,SaaS関連,岡三主幹事,微益期待",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-19T05:15:06.227811"
+      "last_updated": "2026-02-20T05:09:10.334161"
     },
     {
-      "code": "509A",
-      "name": "グリーンライト・再エネインフラ投資法人",
-      "market": "東イ",
-      "listing_date": "2026-03-10",
-      "price_range": "80,000",
-      "expected_price": "80,000",
-      "bb_start_date": "2026-02-20",
-      "bb_end_date": "2026-02-27",
-      "application_start_date": "2026-03-03",
-      "application_end_date": "2026-03-06",
-      "lead_underwriter": "みずほ",
+      "code": "520A",
+      "name": "ジェイファーマ",
+      "market": "東G",
+      "listing_date": "2026-03-25",
+      "price_range": "920",
+      "expected_price": "920",
+      "bb_start_date": "2026-03-06",
+      "bb_end_date": "2026-03-12",
+      "application_start_date": "2026-03-16",
+      "application_end_date": "2026-03-19",
+      "lead_underwriter": "SBI",
       "syndicate": [
         {
-          "broker_name": "みずほ証券",
+          "broker_name": "SBI証券",
           "allocation": "-",
           "allocation_pct": null,
           "lottery_shares": null,
           "is_lead": 1
         },
         {
-          "broker_name": "SBI証券",
+          "broker_name": "松井証券",
           "allocation": "-",
           "allocation_pct": null,
           "lottery_shares": null,
@@ -156,14 +156,84 @@
           "allocation_pct": null,
           "lottery_shares": null,
           "is_lead": 0
+        },
+        {
+          "broker_name": "マネックス証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "大和証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "東海東京証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "東洋証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        }
+      ],
+      "ai_rank": "D",
+      "ai_score": 3,
+      "predicted_price": 750,
+      "ai_analysis": "バイオ医薬,赤字継続,SBI主幹事,公募割れリスク",
+      "ai_model": "claude-sonnet-4-5-20250929",
+      "last_updated": "2026-02-20T05:09:10.334161"
+    },
+    {
+      "code": "509A",
+      "name": "グリーンライト・再エネインフラ投資法人",
+      "market": "東イ",
+      "listing_date": "2026-03-10",
+      "price_range": "78k-80k",
+      "expected_price": "80,000",
+      "bb_start_date": "2026-02-20",
+      "bb_end_date": "2026-02-27",
+      "application_start_date": "2026-03-03",
+      "application_end_date": "2026-03-06",
+      "lead_underwriter": "みずほ",
+      "syndicate": [
+        {
+          "broker_name": "みずほ証券",
+          "allocation": "58,916株",
+          "allocation_pct": 93.0,
+          "lottery_shares": 5892,
+          "is_lead": 1
+        },
+        {
+          "broker_name": "楽天証券",
+          "allocation": "3,801株",
+          "allocation_pct": 6.0,
+          "lottery_shares": 3801,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "SBI証券",
+          "allocation": "633株",
+          "allocation_pct": 1.0,
+          "lottery_shares": 285,
+          "is_lead": 0
         }
       ],
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 76000,
-      "ai_analysis": "インフラファンド,大型案件,需給厳しい,公募割れリスク",
+      "ai_analysis": "インフラファンド,大型案件,公募割れ懸念,利回り重視",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-19T05:15:06.227811"
+      "last_updated": "2026-02-20T05:09:10.334161"
     },
     {
       "code": "505A",
@@ -245,10 +315,10 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1910,
-      "ai_analysis": "IT人材,スタンダード,野村主幹事,公開価格近辺",
+      "predicted_price": 1950,
+      "ai_analysis": "東S小型,人材紹介,野村主幹事,公開価格近辺",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-19T05:15:06.227811"
+      "last_updated": "2026-02-20T05:09:10.334161"
     },
     {
       "code": "504A",
@@ -281,10 +351,10 @@
       ],
       "ai_rank": "E",
       "ai_score": 2,
-      "predicted_price": 1180,
-      "ai_analysis": "公募割れ懸念,小型グロース,野村主幹事,需給不安",
+      "predicted_price": 1200,
+      "ai_analysis": "公募割れ懸念,野村主幹事,バイオ不人気,需給悪化",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-19T05:15:06.227811"
+      "last_updated": "2026-02-20T05:09:10.334161"
     },
     {
       "code": "500A",
@@ -347,9 +417,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "公募割れ,出版業界,小型スタンダード,需給やや弱い",
+      "ai_analysis": "公募割れ実績,東S大型,出版業界,需給厳しい",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-19T05:15:06.227811"
+      "last_updated": "2026-02-20T05:09:10.334161"
     }
   ]
 }
