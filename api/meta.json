@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "last_run": "2026-02-20T05:09:10.334292",
+  "last_run": "2026-02-21T04:54:37.907267",
   "scrape_source": "96ut.com",
   "ai_provider": "OpenAI",
   "ai_model": "claude-sonnet-4-5-20250929",
-  "ipo_count": 6,
-  "active_count": 5
+  "ipo_count": 7,
+  "active_count": 6
 }
