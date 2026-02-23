@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-22T05:09:35.415731",
+  "generated_at": "2026-02-23T05:43:43.164970",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 7,
   "items": [
@@ -84,9 +84,9 @@
       "ai_rank": "B",
       "ai_score": 7,
       "predicted_price": 2400,
-      "ai_analysis": "小型グロース,需給良好,SBI主幹事,仮条件据置,上場3月末",
+      "ai_analysis": "小型グロース,需給良好,SBI主幹事,仮条件据え置き",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     },
     {
       "code": "519A",
@@ -203,9 +203,9 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 1050,
-      "ai_analysis": "小型案件,幹事多数,仮条件据置,初値小幅プラス想定",
+      "ai_analysis": "小型案件,幹事団広い,仮条件据え置き,初値小幅プラス想定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     },
     {
       "code": "520A",
@@ -273,9 +273,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 800,
-      "ai_analysis": "バイオ創薬,赤字継続,公募割れリスク,慎重姿勢",
+      "ai_analysis": "バイオ医薬,公募割れ懸念,幹事団少ない,市場評価慎重",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     },
     {
       "code": "509A",
@@ -314,10 +314,10 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 76000,
-      "ai_analysis": "インフラファンド,大型案件,利回り重視,初値軟調予想",
+      "predicted_price": 77000,
+      "ai_analysis": "インフラファンド,大型案件,仮条件下限割れ懸念,需給厳しい",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     },
     {
       "code": "505A",
@@ -400,9 +400,9 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 1950,
-      "ai_analysis": "人材紹介,東証S,野村主幹事,小幅プラス想定",
+      "ai_analysis": "東証S,人材紹介,野村主幹事,仮条件上限決定,小幅プラス想定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     },
     {
       "code": "504A",
@@ -436,9 +436,9 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1200,
-      "ai_analysis": "バイオ医薬,赤字,公募割れ懸念,見送り推奨",
+      "ai_analysis": "公募割れ懸念,幹事団少ない,市場評価低い,慎重姿勢",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     },
     {
       "code": "500A",
@@ -501,9 +501,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "出版,公募割れ,需給悪化,初値軟調",
+      "ai_analysis": "公募割れ,出版業界,大型案件,初値3595円確定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-22T05:09:35.415529"
+      "last_updated": "2026-02-23T05:43:43.164813"
     }
   ]
 }
