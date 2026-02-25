@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-24T05:14:58.445911",
+  "generated_at": "2026-02-25T05:17:45.247574",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 7,
   "items": [
@@ -83,10 +83,10 @@
       ],
       "ai_rank": "B",
       "ai_score": 7,
-      "predicted_price": 2400,
-      "ai_analysis": "小型グロース,需給良好,主幹事SBI,仮条件据置,上場日単独",
+      "predicted_price": 2350,
+      "ai_analysis": "東G小型案件,需給良好,SBI主幹事,仮条件据置き",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     },
     {
       "code": "519A",
@@ -203,9 +203,9 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 1020,
-      "ai_analysis": "小型案件,幹事団14社,公募割れリスク低,初値小幅プラス想定",
+      "ai_analysis": "東G小型,幹事団広い,仮条件据置き,初値小幅プラス想定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     },
     {
       "code": "520A",
@@ -272,10 +272,10 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 760,
-      "ai_analysis": "公募割れ懸念,幹事団少数,市場評価低調,慎重姿勢",
+      "predicted_price": 770,
+      "ai_analysis": "東G小型,幹事団少ない,公募割れリスク,慎重姿勢",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     },
     {
       "code": "509A",
@@ -315,9 +315,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 76500,
-      "ai_analysis": "インフラファンド,大型案件,利回り重視,初値軟調予想",
+      "ai_analysis": "インフラ投資法人,大型案件,公募割れ懸念,慎重評価",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     },
     {
       "code": "505A",
@@ -398,11 +398,11 @@
         }
       ],
       "ai_rank": "C",
-      "ai_score": 6,
-      "predicted_price": 2025,
-      "ai_analysis": "東証S,人材業種,仮条件上限決定,小幅プラス期待,野村主幹事",
+      "ai_score": 5,
+      "predicted_price": 2030,
+      "ai_analysis": "東S,人材サービス,野村主幹事,小幅プラス想定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     },
     {
       "code": "504A",
@@ -437,9 +437,9 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "公募割れ,バイオ不人気,大型案件,初値軟調",
+      "ai_analysis": "東G,公募割れ発生,初値1248円確定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     },
     {
       "code": "500A",
@@ -500,11 +500,11 @@
         }
       ],
       "ai_rank": "D",
-      "ai_score": 3,
+      "ai_score": 4,
       "predicted_price": 3595,
-      "ai_analysis": "公募割れ,出版業種,大型案件,初値低迷",
+      "ai_analysis": "東S,出版関連,公募割れ発生,初値3595円確定",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-24T05:14:58.445754"
+      "last_updated": "2026-02-25T05:17:45.247420"
     }
   ]
 }
