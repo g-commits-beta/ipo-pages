@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-27T05:07:37.649044",
+  "generated_at": "2026-02-28T04:37:17.258447",
   "ai_model": "claude-sonnet-4-5-20250929",
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "code": "529A",
@@ -55,10 +55,115 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 1050,
-      "ai_analysis": "小型案件,需給やや弱含み,公募価格近辺,慎重姿勢",
+      "predicted_price": 1030,
+      "ai_analysis": "医療機器,東G,小型案件,横ばい予想",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
+    },
+    {
+      "code": "542A",
+      "name": "ビタブリッドジャパン",
+      "market": "東G",
+      "listing_date": "2026-04-02",
+      "price_range": "1,370",
+      "expected_price": "1,370",
+      "bb_start_date": "2026-03-17",
+      "bb_end_date": "2026-03-24",
+      "application_start_date": "2026-03-26",
+      "application_end_date": "2026-03-31",
+      "lead_underwriter": "SBI",
+      "syndicate": [
+        {
+          "broker_name": "SBI証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 1
+        },
+        {
+          "broker_name": "松井証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "Jトラストグローバル証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "丸三証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "岩井コスモ証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "東海東京証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "岡三証券（岡三オンライン）",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "三菱UFJモルガン・スタンレー証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "SMBC日興証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "大和証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "マネックス証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        },
+        {
+          "broker_name": "極東証券",
+          "allocation": "-",
+          "allocation_pct": null,
+          "lottery_shares": null,
+          "is_lead": 0
+        }
+      ],
+      "ai_rank": "C",
+      "ai_score": 5,
+      "predicted_price": 2000,
+      "ai_analysis": "化粧品,東G,中型案件,やや期待",
+      "ai_model": "claude-sonnet-4-5-20250929",
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "523A",
@@ -137,12 +242,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "B",
-      "ai_score": 7,
+      "ai_rank": "C",
+      "ai_score": 6,
       "predicted_price": 2000,
-      "ai_analysis": "小型グロース,需給良好,SBI主幹事,業績期待",
+      "ai_analysis": "建設関連,東G,需給良好,プラス期待",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "519A",
@@ -256,12 +361,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "C",
-      "ai_score": 5,
-      "predicted_price": 1000,
-      "ai_analysis": "小型案件,幹事団多数,公募割れリスク低,初値小幅プラス想定",
+      "ai_rank": "D",
+      "ai_score": 4,
+      "predicted_price": 985,
+      "ai_analysis": "SaaS,東G,小型案件,横ばい予想",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "520A",
@@ -326,12 +431,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
-      "predicted_price": 800,
-      "ai_analysis": "バイオ医薬,公募割れ懸念,市場評価厳しい,見送り推奨",
+      "ai_rank": "E",
+      "ai_score": 2,
+      "predicted_price": 750,
+      "ai_analysis": "創薬ベンチャー,東G,公募割れ懸念強い",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "509A",
@@ -370,10 +475,10 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 77000,
-      "ai_analysis": "インフラファンド,大型案件,需給悪化,公募割れ懸念",
+      "predicted_price": 76000,
+      "ai_analysis": "インフラファンド,東イ,大型案件,公募割れ懸念",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "505A",
@@ -454,12 +559,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
+      "ai_rank": "C",
+      "ai_score": 5,
       "predicted_price": 1757,
-      "ai_analysis": "人材紹介,公募割れ,市場環境厳しい,東S上場",
+      "ai_analysis": "人材紹介,東S,公募割れ実績,市場環境厳しい",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "504A",
@@ -491,12 +596,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "E",
-      "ai_score": 2,
+      "ai_rank": "D",
+      "ai_score": 3,
       "predicted_price": 1248,
-      "ai_analysis": "バイオ創薬,公募割れ,需給悪化,市場評価低迷",
+      "ai_analysis": "バイオ創薬,東G,公募割れ実績,需給厳しい",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     },
     {
       "code": "500A",
@@ -556,12 +661,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 4,
+      "ai_rank": "B",
+      "ai_score": 7,
       "predicted_price": 3595,
-      "ai_analysis": "出版コンテンツ,公募割れ,東S上場,市場環境不透明",
+      "ai_analysis": "出版コンテンツ,東S,公募割れ実績,需給やや弱",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-27T05:07:37.648862"
+      "last_updated": "2026-02-28T04:37:17.258240"
     }
   ]
 }
