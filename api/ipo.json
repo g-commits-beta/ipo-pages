@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-28T04:37:17.258447",
+  "generated_at": "2026-03-01T05:12:42.383403",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 9,
   "items": [
@@ -54,11 +54,11 @@
         }
       ],
       "ai_rank": "D",
-      "ai_score": 3,
-      "predicted_price": 1030,
-      "ai_analysis": "医療機器,東G,小型案件,横ばい予想",
+      "ai_score": 4,
+      "predicted_price": 1050,
+      "ai_analysis": "医療機器,野村主幹事,幹事団5社,小型案件",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "542A",
@@ -159,11 +159,11 @@
         }
       ],
       "ai_rank": "C",
-      "ai_score": 5,
-      "predicted_price": 2000,
-      "ai_analysis": "化粧品,東G,中型案件,やや期待",
+      "ai_score": 6,
+      "predicted_price": 1850,
+      "ai_analysis": "化粧品関連,SBI主幹事,幹事団12社,中型案件",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "523A",
@@ -242,12 +242,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "C",
-      "ai_score": 6,
-      "predicted_price": 2000,
-      "ai_analysis": "建設関連,東G,需給良好,プラス期待",
+      "ai_rank": "B",
+      "ai_score": 7,
+      "predicted_price": 1900,
+      "ai_analysis": "小型グロース,需給良好,SBI主幹事,仮条件据え置き",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "519A",
@@ -361,12 +361,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 4,
-      "predicted_price": 985,
-      "ai_analysis": "SaaS,東G,小型案件,横ばい予想",
+      "ai_rank": "C",
+      "ai_score": 5,
+      "predicted_price": 1050,
+      "ai_analysis": "SaaS関連,岡三主幹事,幹事団14社,需給中立",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "520A",
@@ -431,12 +431,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "E",
-      "ai_score": 2,
-      "predicted_price": 750,
-      "ai_analysis": "創薬ベンチャー,東G,公募割れ懸念強い",
+      "ai_rank": "D",
+      "ai_score": 3,
+      "predicted_price": 780,
+      "ai_analysis": "バイオ創薬,SBI主幹事,幹事団7社,リスク高",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "509A",
@@ -476,9 +476,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 76000,
-      "ai_analysis": "インフラファンド,東イ,大型案件,公募割れ懸念",
+      "ai_analysis": "インフラファンド,大型案件,みずほ主幹事,需給悪化",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "505A",
@@ -559,12 +559,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "C",
-      "ai_score": 5,
+      "ai_rank": "D",
+      "ai_score": 3,
       "predicted_price": 1757,
-      "ai_analysis": "人材紹介,東S,公募割れ実績,市場環境厳しい",
+      "ai_analysis": "人材紹介,東証S,野村主幹事,初値公募割れ,市場環境厳しい",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "504A",
@@ -596,12 +596,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
+      "ai_rank": "E",
+      "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "バイオ創薬,東G,公募割れ実績,需給厳しい",
+      "ai_analysis": "バイオ医薬,東証G,野村主幹事,初値公募割れ",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     },
     {
       "code": "500A",
@@ -661,12 +661,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "B",
-      "ai_score": 7,
+      "ai_rank": "C",
+      "ai_score": 5,
       "predicted_price": 3595,
-      "ai_analysis": "出版コンテンツ,東S,公募割れ実績,需給やや弱",
+      "ai_analysis": "出版コンテンツ,東証S,日興主幹事,初値公募割れ",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-02-28T04:37:17.258240"
+      "last_updated": "2026-03-01T05:12:42.382996"
     }
   ]
 }
