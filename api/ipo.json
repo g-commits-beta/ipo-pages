@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-02T05:08:36.294848",
+  "generated_at": "2026-03-03T05:07:17.602295",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 9,
   "items": [
@@ -55,10 +55,10 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 1020,
-      "ai_analysis": "東証G,医療機器,小型,初値公開価格近辺",
+      "predicted_price": 1050,
+      "ai_analysis": "医療機器,吸収金額注視,需給やや弱,慎重評価",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "542A",
@@ -159,11 +159,11 @@
         }
       ],
       "ai_rank": "C",
-      "ai_score": 6,
-      "predicted_price": 2000,
-      "ai_analysis": "東証G,化粧品,幹事団充実,初値1.5倍期待",
+      "ai_score": 5,
+      "predicted_price": 1800,
+      "ai_analysis": "化粧品関連,幹事団広い,中型案件,堅調推移期待",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "523A",
@@ -244,10 +244,10 @@
       ],
       "ai_rank": "B",
       "ai_score": 7,
-      "predicted_price": 2000,
-      "ai_analysis": "東証G,建設関連,需給良好,初値1.6倍期待",
+      "predicted_price": 1900,
+      "ai_analysis": "小型グロース,需給良好,人気期待,初値1.5倍圏",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "519A",
@@ -364,9 +364,9 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 1000,
-      "ai_analysis": "東証G,SaaS,小型,初値公開価格近辺",
+      "ai_analysis": "小型グロース,SaaS関連,幹事団広い,公開価格近辺",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "520A",
@@ -433,10 +433,10 @@
       ],
       "ai_rank": "E",
       "ai_score": 2,
-      "predicted_price": 760,
-      "ai_analysis": "東証G,創薬バイオ,公募割れ懸念強,慎重姿勢",
+      "predicted_price": 750,
+      "ai_analysis": "公募割れ懸念強,バイオ医薬,市場評価低,慎重姿勢",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "509A",
@@ -445,6 +445,7 @@
       "listing_date": "2026-03-10",
       "price_range": "78k-80k",
       "expected_price": "80,000",
+      "offering_price": 80000,
       "bb_start_date": "2026-02-20",
       "bb_end_date": "2026-02-27",
       "application_start_date": "2026-03-03",
@@ -476,9 +477,9 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 76000,
-      "ai_analysis": "インフラファンド,大型案件,公募割れ懸念,需給厳しい",
+      "ai_analysis": "インフラファンド,公募割れ懸念,大型案件,利回り重視",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "505A",
@@ -559,12 +560,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "C",
-      "ai_score": 5,
+      "ai_rank": "D",
+      "ai_score": 3,
       "predicted_price": 1757,
-      "ai_analysis": "東証S,人材紹介,公募割れ,市場環境厳しい",
+      "ai_analysis": "公募割れ,スタンダード市場,人材業種,需給軟調",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "504A",
@@ -596,12 +597,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
+      "ai_rank": "E",
+      "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "東証G,バイオ,公募割れ,需給悪化",
+      "ai_analysis": "公募割れ,グロース市場,主幹事集中,市場環境悪化",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     },
     {
       "code": "500A",
@@ -661,12 +662,12 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "B",
-      "ai_score": 7,
+      "ai_rank": "D",
+      "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "東証S,出版コンテンツ,公募割れ,需給やや弱",
+      "ai_analysis": "公募割れ,スタンダード市場,吸収金額大,需給悪化",
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-02T05:08:36.294680"
+      "last_updated": "2026-03-03T05:07:17.602123"
     }
   ]
 }
