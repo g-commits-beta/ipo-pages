@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-05T05:06:21.884202",
+  "generated_at": "2026-03-06T05:01:53.713273",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 11,
   "items": [
@@ -56,10 +56,10 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 720,
-      "ai_analysis": "東証スタンダード,野村主幹事,小型案件,需給やや良好,初値期待薄",
+      "ai_analysis": "東証スタンダード,小型案件,需給やや良好,仮条件据え置き",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "548A",
@@ -118,12 +118,12 @@
         }
       ],
       "ai_rank": "C",
-      "ai_score": 6,
-      "predicted_price": 1280,
-      "ai_analysis": "IT関連,東証スタンダード,みずほ主幹事,需給良好,初値1.3倍期待",
+      "ai_score": 5,
+      "predicted_price": 1140,
+      "ai_analysis": "東証スタンダード,IT関連,需給普通,仮条件据え置き",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "542A",
@@ -225,11 +225,11 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1850,
-      "ai_analysis": "化粧品関連,東証グロース,SBI主幹事,需給普通,初値1.3倍期待",
+      "predicted_price": 1650,
+      "ai_analysis": "東証グロース,化粧品関連,幹事団多数,仮条件据え置き",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "529A",
@@ -282,11 +282,11 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 1020,
-      "ai_analysis": "医療関連,東証グロース,野村主幹事,公募割れリスク,慎重判断",
+      "predicted_price": 1010,
+      "ai_analysis": "東証グロース,医療関連,公募割れ懸念,需給不安",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "523A",
@@ -367,18 +367,18 @@
       ],
       "ai_rank": "B",
       "ai_score": 7,
-      "predicted_price": 1950,
-      "ai_analysis": "東証グロース,SBI主幹事,需給良好,初値1.6倍期待,人気化",
+      "predicted_price": 1850,
+      "ai_analysis": "東証グロース,小型案件,需給良好,人気期待",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "520A",
       "name": "ジェイファーマ",
       "market": "東G",
       "listing_date": "2026-03-25",
-      "price_range": "920",
+      "price_range": "840-900",
       "expected_price": "920",
       "bb_start_date": "2026-03-06",
       "bb_end_date": "2026-03-12",
@@ -438,11 +438,11 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 760,
-      "ai_analysis": "製薬関連,東証グロース,SBI主幹事,公募割れリスク高,見送り推奨",
+      "predicted_price": 780,
+      "ai_analysis": "東証グロース,仮条件引き下げ,公募割れ懸念,需給悪化",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "519A",
@@ -558,11 +558,11 @@
       ],
       "ai_rank": "D",
       "ai_score": 4,
-      "predicted_price": 970,
-      "ai_analysis": "IT関連,東証グロース,岡三主幹事,需給普通,初値横ばい",
+      "predicted_price": 920,
+      "ai_analysis": "東証グロース,仮条件引き下げ,需給やや弱い,慎重姿勢",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "509A",
@@ -603,10 +603,10 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 76500,
-      "ai_analysis": "インフラファンド,みずほ主幹事,公募割れリスク,慎重判断",
+      "ai_analysis": "インフラファンド,大型案件,公募割れ懸念,需給厳しい",
       "min_shares": 1,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "505A",
@@ -690,10 +690,10 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1757,
-      "ai_analysis": "人材関連,東証スタンダード,野村主幹事,初値公募割れ,既上場",
+      "ai_analysis": "東証スタンダード,初値公募割れ,人材関連,需給弱い",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "504A",
@@ -728,10 +728,10 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "バイオ関連,東証グロース,野村主幹事,初値公募割れ,既上場",
+      "ai_analysis": "東証グロース,初値公募割れ,バイオ関連,需給悪化",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     },
     {
       "code": "500A",
@@ -792,12 +792,12 @@
         }
       ],
       "ai_rank": "D",
-      "ai_score": 4,
+      "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "出版関連,東証スタンダード,日興主幹事,初値公募割れ,既上場",
+      "ai_analysis": "東証スタンダード,初値公募割れ,出版関連,需給不安",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-05T05:06:21.883941"
+      "last_updated": "2026-03-06T05:01:53.713060"
     }
   ]
 }
