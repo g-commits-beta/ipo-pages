@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-18T02:54:12.590924",
+  "generated_at": "2026-03-19T02:55:38.659212",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 13,
   "items": [
@@ -83,11 +83,11 @@
       ],
       "ai_rank": "B",
       "ai_score": 7,
-      "predicted_price": 990,
-      "ai_analysis": "小型グロース,M&Aマッチング,大和主幹事,需給良好,成長期待",
+      "predicted_price": 950,
+      "ai_analysis": "小型グロース,M&Aマッチング,需給良好,主幹事大和,成長期待",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "550A",
@@ -174,19 +174,19 @@
         }
       ],
       "ai_rank": "C",
-      "ai_score": 5,
-      "predicted_price": 2490,
-      "ai_analysis": "スタンダード,IT受託開発,中型案件,安定需給",
+      "ai_score": 6,
+      "predicted_price": 2500,
+      "ai_analysis": "スタンダード,IT受託開発,吸収金額中規模,需給やや良好",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "549A",
       "name": "ヒトトヒトホールディングス",
       "market": "東S",
       "listing_date": "2026-04-07",
-      "price_range": "480",
+      "price_range": "410-430",
       "expected_price": "480",
       "bb_start_date": "2026-03-19",
       "bb_end_date": "2026-03-26",
@@ -232,11 +232,11 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 720,
-      "ai_analysis": "スタンダード,介護HD,野村主幹事,需給やや良",
+      "predicted_price": 650,
+      "ai_analysis": "スタンダード,人材サービス,仮条件下方修正,需給懸念",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "548A",
@@ -296,11 +296,11 @@
       ],
       "ai_rank": "C",
       "ai_score": 6,
-      "predicted_price": 1190,
-      "ai_analysis": "スタンダード,システム開発,仮条件上限,堅調",
+      "predicted_price": 1150,
+      "ai_analysis": "スタンダード,システム開発,仮条件上限,需給バランス",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "542A",
@@ -402,11 +402,11 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1680,
-      "ai_analysis": "グロース,化粧品EC,SBI主幹事,需給良好",
+      "predicted_price": 1650,
+      "ai_analysis": "グロース,化粧品EC,吸収金額やや大,抽選枚数多い",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "529A",
@@ -460,10 +460,10 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1000,
-      "ai_analysis": "グロース,医療IT,需給不安,慎重判断",
+      "ai_analysis": "グロース,医療機器,公募割れ懸念,需給厳しい",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "523A",
@@ -472,6 +472,7 @@
       "listing_date": "2026-03-27",
       "price_range": "1,230-1,250",
       "expected_price": "1,230",
+      "offering_price": 1250,
       "bb_start_date": "2026-03-11",
       "bb_end_date": "2026-03-17",
       "application_start_date": "2026-03-19",
@@ -544,11 +545,11 @@
       ],
       "ai_rank": "B",
       "ai_score": 7,
-      "predicted_price": 1740,
-      "ai_analysis": "グロース,建設HD,SBI主幹事,抽選枚数多,人気",
+      "predicted_price": 1680,
+      "ai_analysis": "グロース,建設関連,仮条件上限決定,抽選枚数多い,人気",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "520A",
@@ -617,10 +618,10 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 810,
-      "ai_analysis": "グロース,創薬ベンチャー,公募割れ予想,仮条件下限,リスク高",
+      "ai_analysis": "グロース,創薬ベンチャー,公募割れ懸念,仮条件下方",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "519A",
@@ -738,10 +739,10 @@
       "ai_rank": "D",
       "ai_score": 4,
       "predicted_price": 900,
-      "ai_analysis": "グロース,SaaS,仮条件下限,需給やや弱",
+      "ai_analysis": "グロース,マーケティング,仮条件下方修正,公募割れリスク",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "509A",
@@ -783,10 +784,10 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 80000,
-      "ai_analysis": "インフラファンド,初値公募同値,需給厳しい",
+      "ai_analysis": "インフラファンド,再生エネルギー,初値公募同値,利回り重視",
       "min_shares": 1,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "505A",
@@ -867,13 +868,13 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
+      "ai_rank": "C",
+      "ai_score": 5,
       "predicted_price": 1757,
-      "ai_analysis": "スタンダード,人材紹介,初値公募割れ,市況悪化影響",
+      "ai_analysis": "スタンダード,人材紹介,初値公募割れ,IT人材特化",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "504A",
@@ -908,10 +909,10 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "グロース,バイオ創薬,初値公募割れ,厳しい",
+      "ai_analysis": "グロース,バイオ創薬,初値公募割れ,需給悪化",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     },
     {
       "code": "500A",
@@ -971,13 +972,13 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
+      "ai_rank": "C",
+      "ai_score": 5,
       "predicted_price": 3595,
-      "ai_analysis": "スタンダード,出版,初値公募割れ",
+      "ai_analysis": "スタンダード,出版コンテンツ,初値公募割れ,吸収金額大",
       "min_shares": 100,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-18T02:54:12.590671"
+      "last_updated": "2026-03-19T02:55:38.658956"
     }
   ]
 }
