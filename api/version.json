@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "min_version": "0.0.1",
-  "release_notes": "IPO自動申込7社対応、ライセンスWorker連携、診断レポート機能",
-  "download_url": "https://github.com/g-commits-beta/ipo-releases/releases/download/v1.0.0/ipo-manager.exe"
+  "release_notes": "東海東京バグ修正、ヘルプページ追加、Chromium自動インストール",
+  "download_url": "https://github.com/g-commits-beta/ipo-releases/releases/download/v1.0.1/ipo-manager.exe"
 }
