@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "min_version": "0.0.1",
-  "release_notes": "URL統一、初回セットアップ改善、ヘルプページ追加",
-  "download_url": "https://github.com/g-commits-beta/ipo-releases/releases/download/v1.0.1/ipo-manager.exe"
+  "release_notes": "API URL統一、起動UX改善",
+  "download_url": "https://github.com/g-commits-beta/ipo-releases/releases/download/v1.0.2/ipo-manager.exe"
 }
