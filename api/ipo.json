@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-27T03:21:34.103271",
+  "generated_at": "2026-03-28T02:51:53.705116",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 16,
   "items": [
@@ -70,11 +70,11 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 720,
-      "ai_analysis": "東証スタンダード,老舗酒造,小型案件,需給やや良好,業種人気普通",
+      "ai_analysis": "小型スタンダード,老舗酒造,需給やや弱い,地味業種",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "556A",
@@ -142,11 +142,11 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 3550,
-      "ai_analysis": "東証グロース,ペット関連,小型案件,需給良好,成長期待",
+      "ai_analysis": "小型グロース,ペット関連,需給普通,成長期待",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "558A",
@@ -221,11 +221,11 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 3500,
-      "ai_analysis": "東証グロース,IT関連,小型案件,需給良好,業種人気",
+      "ai_analysis": "小型グロース,SBI主幹事,需給普通,様子見",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "554A",
@@ -307,11 +307,11 @@
       "ai_rank": "B",
       "ai_score": 7,
       "predicted_price": 990,
-      "ai_analysis": "東証グロース,M&Aプラットフォーム,小型案件,需給良好,注目業種",
+      "ai_analysis": "小型グロース,M&Aマッチング,需給良好,人気テーマ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "550A",
@@ -399,12 +399,12 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 2250,
-      "ai_analysis": "東証スタンダード,IT関連,仮条件下方修正,需給やや弱含み",
+      "predicted_price": 2200,
+      "ai_analysis": "スタンダード,IT関連,仮条件下方修正,需給やや弱い",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "549A",
@@ -413,6 +413,7 @@
       "listing_date": "2026-04-07",
       "price_range": "410-430",
       "expected_price": "480",
+      "offering_price": 430,
       "bb_start_date": "2026-03-19",
       "bb_end_date": "2026-03-26",
       "application_start_date": "2026-03-30",
@@ -455,14 +456,14 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 4,
-      "predicted_price": 560,
-      "ai_analysis": "東証スタンダード,ホールディングス,仮条件下方修正,需給懸念",
+      "ai_rank": "C",
+      "ai_score": 5,
+      "predicted_price": 550,
+      "ai_analysis": "スタンダード,介護関連,仮条件下方修正,公募割れリスク",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "548A",
@@ -471,6 +472,7 @@
       "listing_date": "2026-04-06",
       "price_range": "900-950",
       "expected_price": "950",
+      "offering_price": 950,
       "bb_start_date": "2026-03-19",
       "bb_end_date": "2026-03-26",
       "application_start_date": "2026-03-30",
@@ -522,12 +524,12 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1110,
-      "ai_analysis": "東証スタンダード,システム開発,中型案件,需給普通,業種人気",
+      "predicted_price": 1100,
+      "ai_analysis": "スタンダード,システム開発,需給普通,堅実評価",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "542A",
@@ -630,12 +632,12 @@
       ],
       "ai_rank": "C",
       "ai_score": 5,
-      "predicted_price": 1540,
-      "ai_analysis": "東証グロース,化粧品関連,公募価格上限決定,需給やや良好",
+      "predicted_price": 1550,
+      "ai_analysis": "小型グロース,化粧品関連,需給良好,やや期待",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "529A",
@@ -688,12 +690,12 @@
       ],
       "ai_rank": "D",
       "ai_score": 3,
-      "predicted_price": 1000,
-      "ai_analysis": "東証グロース,医療関連,需給やや弱含み,公募割れ懸念",
+      "predicted_price": 980,
+      "ai_analysis": "小型グロース,医療機器,需給弱い,公募割れ懸念",
       "min_shares": 100,
       "is_cancelled": true,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "523A",
@@ -777,11 +779,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1220,
-      "ai_analysis": "東証グロース,公募割れ,初値1220円,需給悪化",
+      "ai_analysis": "小型グロース,建設関連,公募割れ,期待外れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "520A",
@@ -851,11 +853,11 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 809,
-      "ai_analysis": "東証グロース,バイオ医薬,公募割れ,初値809円,需給悪化",
+      "ai_analysis": "小型グロース,バイオ,公募割れ,仮条件下方修正",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "519A",
@@ -971,14 +973,14 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "E",
-      "ai_score": 2,
+      "ai_rank": "D",
+      "ai_score": 3,
       "predicted_price": 800,
-      "ai_analysis": "東証グロース,公募割れ,初値800円,需給悪化,仮条件下方修正",
+      "ai_analysis": "小型グロース,SaaS,公募割れ,仮条件下方修正",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "509A",
@@ -1020,11 +1022,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 80000,
-      "ai_analysis": "インフラファンド,初値公募価格並み,需給普通,利回り重視",
+      "ai_analysis": "インフラファンド,再生エネ,初値横ばい,利回り重視",
       "min_shares": 1,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "505A",
@@ -1108,11 +1110,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1757,
-      "ai_analysis": "東証スタンダード,人材紹介,公募割れ,初値1757円,需給悪化",
+      "ai_analysis": "スタンダード,人材紹介,公募割れ,需給弱い",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "504A",
@@ -1147,11 +1149,11 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "東証グロース,バイオ関連,公募割れ,初値1248円,需給悪化",
+      "ai_analysis": "小型グロース,バイオ,公募割れ,期待外れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     },
     {
       "code": "500A",
@@ -1214,11 +1216,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "東証スタンダード,出版関連,公募割れ,初値3595円,需給悪化",
+      "ai_analysis": "スタンダード,出版,公募割れ,需給弱い",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-03-27T03:21:34.102935"
+      "last_updated": "2026-03-28T02:51:53.704792"
     }
   ]
 }
