@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-13T03:42:08.376750",
+  "generated_at": "2026-04-14T03:31:47.712521",
   "ai_model": "claude-sonnet-4-5-20250929",
   "count": 16,
   "items": [
@@ -70,11 +70,11 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 700,
-      "ai_analysis": "老舗酒造,東証スタンダード,小型案件,需給やや良好,堅実評価",
+      "ai_analysis": "老舗酒造,東証スタンダード,小型案件,需給やや良好,仮条件上限",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "556A",
@@ -142,11 +142,11 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 3300,
-      "ai_analysis": "ペット関連,グロース市場,SBI主幹事,需給良好,やや期待",
+      "ai_analysis": "ペット関連,グロース市場,中型案件,SBI主幹事,仮条件上限",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "558A",
@@ -221,11 +221,11 @@
       "ai_rank": "D",
       "ai_score": 4,
       "predicted_price": 3200,
-      "ai_analysis": "グロース市場,SBI主幹事,抽選枚数多め,初値小幅上昇見込",
+      "ai_analysis": "グロース市場,中型案件,SBI主幹事,需給普通,仮条件上限",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "554A",
@@ -234,6 +234,7 @@
       "listing_date": "2026-04-21",
       "price_range": "630-660",
       "expected_price": "660",
+      "offering_price": 660,
       "bb_start_date": "2026-04-06",
       "bb_end_date": "2026-04-10",
       "application_start_date": "2026-04-14",
@@ -306,12 +307,12 @@
       ],
       "ai_rank": "B",
       "ai_score": 7,
-      "predicted_price": 950,
-      "ai_analysis": "M&Aマッチング,グロース市場,小型案件,需給良好,人気業種",
+      "predicted_price": 980,
+      "ai_analysis": "M&Aマッチング,小型案件,需給良好,大和主幹事,仮条件上限",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "550A",
@@ -402,11 +403,11 @@
       "ai_rank": "B",
       "ai_score": 7,
       "predicted_price": 3200,
-      "ai_analysis": "IT関連,スタンダード,超小型案件,初値1.65倍達成,好調",
+      "ai_analysis": "IT関連,超小型案件,初値1.65倍達成,需給逼迫,岡三主幹事",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "549A",
@@ -462,11 +463,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 422,
-      "ai_analysis": "介護関連,スタンダード,公募割れ,需給悪化,慎重判断",
+      "ai_analysis": "公募割れ,大型案件,需給悪化,野村主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "548A",
@@ -529,11 +530,11 @@
       "ai_rank": "C",
       "ai_score": 5,
       "predicted_price": 1061,
-      "ai_analysis": "システム開発,スタンダード,初値1.12倍,小幅上昇,堅実",
+      "ai_analysis": "IT関連,小型案件,初値1.12倍,需給普通,みずほ主幹事",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "542A",
@@ -638,11 +639,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1301,
-      "ai_analysis": "化粧品関連,グロース市場,公募割れ,需給不安,慎重",
+      "ai_analysis": "公募割れ,中型案件,需給悪化,SBI主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "529A",
@@ -696,11 +697,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1000,
-      "ai_analysis": "医療機器,グロース市場,単一価格,公募割れ懸念,リスク高",
+      "ai_analysis": "医療機器,グロース市場,小型案件,野村主幹事,公募割れ懸念",
       "min_shares": 100,
       "is_cancelled": true,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "523A",
@@ -784,11 +785,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1220,
-      "ai_analysis": "建設関連,グロース市場,公募割れ,抽選多数,需給悪化",
+      "ai_analysis": "公募割れ,大型案件,需給悪化,SBI主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "520A",
@@ -858,11 +859,11 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 809,
-      "ai_analysis": "製薬関連,グロース市場,公募割れ,需給悪化,見送り推奨",
+      "ai_analysis": "公募割れ,大型案件,需給悪化,SBI主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "519A",
@@ -978,14 +979,14 @@
           "is_lead": 0
         }
       ],
-      "ai_rank": "D",
-      "ai_score": 3,
+      "ai_rank": "E",
+      "ai_score": 2,
       "predicted_price": 800,
-      "ai_analysis": "SaaS関連,グロース市場,公募割れ,需給不安,慎重判断",
+      "ai_analysis": "公募割れ,中型案件,需給悪化,岡三主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "509A",
@@ -1027,11 +1028,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 80000,
-      "ai_analysis": "インフラファンド,初値横ばい,利回り重視,値動き限定的",
+      "ai_analysis": "インフラファンド,初値横ばい,大型案件,みずほ主幹事,利回り重視",
       "min_shares": 1,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "505A",
@@ -1115,11 +1116,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 1757,
-      "ai_analysis": "人材紹介,スタンダード,公募割れ,需給悪化,慎重",
+      "ai_analysis": "公募割れ,中型案件,需給悪化,野村主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "504A",
@@ -1154,11 +1155,11 @@
       "ai_rank": "E",
       "ai_score": 2,
       "predicted_price": 1248,
-      "ai_analysis": "バイオ関連,グロース市場,公募割れ,需給悪化,見送り",
+      "ai_analysis": "公募割れ,大型案件,需給悪化,野村主幹事,仮条件下限割れ",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     },
     {
       "code": "500A",
@@ -1221,11 +1222,11 @@
       "ai_rank": "D",
       "ai_score": 3,
       "predicted_price": 3595,
-      "ai_analysis": "出版関連,スタンダード,公募割れ,需給不安,慎重判断",
+      "ai_analysis": "公募割れ,出版関連,小型案件,需給悪化,日興主幹事",
       "min_shares": 100,
       "is_cancelled": false,
       "ai_model": "claude-sonnet-4-5-20250929",
-      "last_updated": "2026-04-13T03:42:08.376392"
+      "last_updated": "2026-04-14T03:31:47.712166"
     }
   ]
 }
